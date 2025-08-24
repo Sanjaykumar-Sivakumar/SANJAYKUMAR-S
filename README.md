@@ -8,7 +8,7 @@ Student at Nandha Engineering College
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Mokhanes_) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mokhanes/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ssk24)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Design.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQf6rl97FvFQ7xd3KL4ORvw)
@@ -31,7 +31,7 @@ Student at Nandha Engineering College
 
 ### LinkedIn Statistics
 ![LinkedIn Posts](https://img.shields.io/badge/LinkedIn%20Posts-100+-blue)
-[![LinkedIn Connections](https://img.shields.io/badge/Connections-500+-brightgreen)](https://www.linkedin.com/in/mokhanes/)
+[![LinkedIn Connections](https://img.shields.io/badge/Connections-500+-brightgreen)](www.linkedin.com/in/ssk24/)
 
 
 ### Github Statistics
