@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me SANJAYKUMAR S
 
-Student at Nandha Engineering College and Fellow at NXTWave
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+Student at Nandha Engineering College 
+<img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxhYTRoZnZvbWl0NjVtMmsxZ3c2bmZ0aDMybGk0YjVqcjZidmkxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
